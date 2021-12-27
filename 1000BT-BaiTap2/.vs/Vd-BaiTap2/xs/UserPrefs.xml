@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{85EAF6C6-955A-4A47-A880-1298699D74AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vd-BaiTap2/Program.cs">
+    <Files>
+      <File FileName="Vd-BaiTap2/Program.cs" Line="17" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vd-BaiTap2" expanded="True">
+            <Node name="Vd-BaiTap2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Vd-BaiTap2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
